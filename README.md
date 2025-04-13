@@ -1,7 +1,6 @@
 # Nacos PostgreSQL 数据源集成（2.5.1 版本）
 
-![Nacos Logo](https://nacos.io/img/logo.png)  
-**基于 Nacos 2.5.1 的 PostgreSQL 数据源插件，支持配置中心与注册中心持久化存储**
+<img src="doc/gd.png" width="8%" syt height="8%" />**基于 Nacos 2.5.1 的 PostgreSQL 数据源插件，支持配置中心与注册中心持久化存储**
 
 ---
 
